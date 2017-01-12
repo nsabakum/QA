@@ -1,0 +1,94 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 23,
+        "passed" : 16,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 6,
+        "broken" : 1
+      },
+      "time" : {
+        "start" : 1484222682189,
+        "stop" : 1484222791588,
+        "duration" : 109399
+      }
+    },
+    "defects" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "count" : 6,
+        "uid" : "fac4ffa48ce330b",
+        "message" : "NoSuchElementException: Message: Unable to locate element: //div[@class='converter-result']\n",
+        "status" : "FAILED"
+      }, {
+        "count" : 1,
+        "uid" : "b872d5d9baac1bb2",
+        "message" : "FixtureLookupError: ('data', <FixtureRequest for <Function 'test0_converter'>>)",
+        "status" : "BROKEN"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "cfbb864a01b018e2",
+        "title" : "Test suite",
+        "statistic" : {
+          "total" : 23,
+          "passed" : 16,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 6,
+          "broken" : 1
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 4,
+      "items" : [ {
+        "title" : "CRUD-тест: выбор валюты",
+        "statistic" : {
+          "total" : 12,
+          "passed" : 12,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "CRUD-тест: поле ввода суммы",
+        "statistic" : {
+          "total" : 6,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 6,
+          "broken" : 0
+        }
+      }, {
+        "title" : "End-to-end сценарий",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 1,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "title" : "Калькулятор иностранных валют",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 3,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 1
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

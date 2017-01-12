@@ -1,0 +1,50 @@
+{
+  "uid" : "6816584173179042",
+  "name" : "TestSuite.test3_to_currency",
+  "title" : "Test 3 to currency",
+  "time" : {
+    "start" : 1484222791587,
+    "stop" : 1484222791588,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "cfbb864a01b018e2",
+    "name" : "test_suite",
+    "title" : "Test suite"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "test_suite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "feature",
+    "value" : "Калькулятор иностранных валют"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5532-MainThread"
+  }, {
+    "name" : "story",
+    "value" : "CRUD, end-to-end функциональные тесты"
+  } ],
+  "parameters" : [ ]
+}
