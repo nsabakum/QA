@@ -7,10 +7,10 @@ params_list = get_converter_data()
 def param_test(request):
     return request.param
 
-@pytest.allure.feature('Калькулятор иностранных валют. CRUD-тест: поле ввода суммы')
+@pytest.allure.feature('CRUD-тест: поле ввода суммы')
 @pytest.allure.story('Ввод различных параметров и проверка результата')
 def test_converter(param_test):
-    (input, expected_output) = param_test
+    input, expected_output = param_test
     result = converter_func(input)
     with pytest.allure.step('Проверка результата'):
         assert result == expected_output, 'Результат не совпадает с ожидаемым'
