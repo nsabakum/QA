@@ -1,0 +1,93 @@
+{
+  "time" : {
+    "start" : 1484183747672,
+    "stop" : 1484183758646,
+    "duration" : 10974
+  },
+  "testSuites" : [ {
+    "uid" : "14594fb8a671c3c6",
+    "name" : "test_to_currency",
+    "title" : "Test to currency",
+    "time" : {
+      "start" : 1484183747672,
+      "stop" : 1484183758646,
+      "duration" : 10974
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "e9ffdf62f5baae62",
+      "name" : "test_to_currency[param_test0]",
+      "title" : "Test to currency [param_test0]",
+      "time" : {
+        "start" : 1484183747672,
+        "stop" : 1484183757300,
+        "duration" : 9628
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6d9c2221d2d396d8",
+      "name" : "test_to_currency[param_test1]",
+      "title" : "Test to currency [param_test1]",
+      "time" : {
+        "start" : 1484183757303,
+        "stop" : 1484183757607,
+        "duration" : 304
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d8677ee29b72cbef",
+      "name" : "test_to_currency[param_test2]",
+      "title" : "Test to currency [param_test2]",
+      "time" : {
+        "start" : 1484183757609,
+        "stop" : 1484183757858,
+        "duration" : 249
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "63cedf3709127a78",
+      "name" : "test_to_currency[param_test3]",
+      "title" : "Test to currency [param_test3]",
+      "time" : {
+        "start" : 1484183757861,
+        "stop" : 1484183758102,
+        "duration" : 241
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "dde961e6e307104a",
+      "name" : "test_to_currency[param_test4]",
+      "title" : "Test to currency [param_test4]",
+      "time" : {
+        "start" : 1484183758104,
+        "stop" : 1484183758366,
+        "duration" : 262
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e3300e1ad12cbdff",
+      "name" : "test_to_currency[param_test5]",
+      "title" : "Test to currency [param_test5]",
+      "time" : {
+        "start" : 1484183758368,
+        "stop" : 1484183758646,
+        "duration" : 278
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

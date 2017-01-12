@@ -1,0 +1,95 @@
+{
+  "uid" : "2de9c13e47f7ba01",
+  "name" : "test_converter[param_test11]",
+  "title" : "Test converter [param_test11]",
+  "time" : {
+    "start" : 1484183353721,
+    "stop" : 1484183355290,
+    "duration" : 1569
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7d6a0eb7100c8089",
+    "name" : "test_converter",
+    "title" : "Test converter"
+  },
+  "steps" : [ {
+    "name" : "Ввод новых данных в поле \"Сумма\"",
+    "title" : "Ввод новых данных в поле \"Сумма\"",
+    "time" : {
+      "start" : 1484183353723,
+      "stop" : 1484183354171,
+      "duration" : 448
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Вывод результата",
+    "title" : "Вывод результата",
+    "time" : {
+      "start" : 1484183354171,
+      "stop" : 1484183355290,
+      "duration" : 1119
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484183355290,
+      "stop" : 1484183355290,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Калькулятор иностранных валют. CRUD-тест: поле ввода суммы"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_converter"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "thread",
+    "value" : "4604-MainThread"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "Ввод различных параметров и проверка результата"
+  } ],
+  "parameters" : [ ]
+}
