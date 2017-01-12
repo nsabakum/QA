@@ -1,0 +1,370 @@
+{
+  "time" : {
+    "start" : 1484254165097,
+    "stop" : 1484254247292,
+    "duration" : 82195
+  },
+  "testSuites" : [ {
+    "uid" : "b002a9b5b74bf957",
+    "name" : "test_suite.test_to_currency",
+    "title" : "Test to currency",
+    "time" : {
+      "start" : 1484254231424,
+      "stop" : 1484254247292,
+      "duration" : 15868
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "739ac6a1cd23614c",
+      "name" : "test_to_currency[param_test0]",
+      "title" : "Test to currency [param_test0]",
+      "time" : {
+        "start" : 1484254231424,
+        "stop" : 1484254245877,
+        "duration" : 14453
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d8820a58c9920d70",
+      "name" : "test_to_currency[param_test1]",
+      "title" : "Test to currency [param_test1]",
+      "time" : {
+        "start" : 1484254245879,
+        "stop" : 1484254246221,
+        "duration" : 342
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "2747d65c870b1126",
+      "name" : "test_to_currency[param_test2]",
+      "title" : "Test to currency [param_test2]",
+      "time" : {
+        "start" : 1484254246223,
+        "stop" : 1484254246508,
+        "duration" : 285
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8b9452111d495f3c",
+      "name" : "test_to_currency[param_test3]",
+      "title" : "Test to currency [param_test3]",
+      "time" : {
+        "start" : 1484254246511,
+        "stop" : 1484254246765,
+        "duration" : 254
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "be546078f67cf012",
+      "name" : "test_to_currency[param_test4]",
+      "title" : "Test to currency [param_test4]",
+      "time" : {
+        "start" : 1484254246767,
+        "stop" : 1484254246988,
+        "duration" : 221
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "78f42f5247340",
+      "name" : "test_to_currency[param_test5]",
+      "title" : "Test to currency [param_test5]",
+      "time" : {
+        "start" : 1484254246990,
+        "stop" : 1484254247292,
+        "duration" : 302
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "d48d2487d3acb452",
+    "name" : "test_suite.test_from_currency",
+    "title" : "Test from currency",
+    "time" : {
+      "start" : 1484254216072,
+      "stop" : 1484254231197,
+      "duration" : 15125
+    },
+    "statistic" : {
+      "total" : 6,
+      "passed" : 6,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "f997e3456e04781b",
+      "name" : "test_from_currency[param_test0]",
+      "title" : "Test from currency [param_test0]",
+      "time" : {
+        "start" : 1484254216072,
+        "stop" : 1484254229067,
+        "duration" : 12995
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "68a9620f6b7462a7",
+      "name" : "test_from_currency[param_test1]",
+      "title" : "Test from currency [param_test1]",
+      "time" : {
+        "start" : 1484254229069,
+        "stop" : 1484254229508,
+        "duration" : 439
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "5a963505fd8d029d",
+      "name" : "test_from_currency[param_test2]",
+      "title" : "Test from currency [param_test2]",
+      "time" : {
+        "start" : 1484254229510,
+        "stop" : 1484254229957,
+        "duration" : 447
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "87743ab73a34ba82",
+      "name" : "test_from_currency[param_test3]",
+      "title" : "Test from currency [param_test3]",
+      "time" : {
+        "start" : 1484254229960,
+        "stop" : 1484254230327,
+        "duration" : 367
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "3c9ca6068dcc4c5",
+      "name" : "test_from_currency[param_test4]",
+      "title" : "Test from currency [param_test4]",
+      "time" : {
+        "start" : 1484254230330,
+        "stop" : 1484254230716,
+        "duration" : 386
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "cf8f823b68086ca",
+      "name" : "test_from_currency[param_test5]",
+      "title" : "Test from currency [param_test5]",
+      "time" : {
+        "start" : 1484254230718,
+        "stop" : 1484254231197,
+        "duration" : 479
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "cc738abc920faf34",
+    "name" : "test_suite.test_converter",
+    "title" : "Test converter",
+    "time" : {
+      "start" : 1484254165097,
+      "stop" : 1484254199295,
+      "duration" : 34198
+    },
+    "statistic" : {
+      "total" : 13,
+      "passed" : 13,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "43ce140d3c1beea5",
+      "name" : "test_converter[param_test0]",
+      "title" : "Test converter [param_test0]",
+      "time" : {
+        "start" : 1484254165097,
+        "stop" : 1484254179716,
+        "duration" : 14619
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "30e6a597378ea10f",
+      "name" : "test_converter[param_test1]",
+      "title" : "Test converter [param_test1]",
+      "time" : {
+        "start" : 1484254179717,
+        "stop" : 1484254181294,
+        "duration" : 1577
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "dcedce8e02207eee",
+      "name" : "test_converter[param_test2]",
+      "title" : "Test converter [param_test2]",
+      "time" : {
+        "start" : 1484254181295,
+        "stop" : 1484254183231,
+        "duration" : 1936
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f8ab320ad7a07f11",
+      "name" : "test_converter[param_test3]",
+      "title" : "Test converter [param_test3]",
+      "time" : {
+        "start" : 1484254183234,
+        "stop" : 1484254184835,
+        "duration" : 1601
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8fc0ca0df570cdaa",
+      "name" : "test_converter[param_test4]",
+      "title" : "Test converter [param_test4]",
+      "time" : {
+        "start" : 1484254184836,
+        "stop" : 1484254186157,
+        "duration" : 1321
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "afe79886bc8142ac",
+      "name" : "test_converter[param_test5]",
+      "title" : "Test converter [param_test5]",
+      "time" : {
+        "start" : 1484254186157,
+        "stop" : 1484254187832,
+        "duration" : 1675
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "f9fe3f46679fadd3",
+      "name" : "test_converter[param_test6]",
+      "title" : "Test converter [param_test6]",
+      "time" : {
+        "start" : 1484254187832,
+        "stop" : 1484254189258,
+        "duration" : 1426
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a7987d45d52d1b30",
+      "name" : "test_converter[param_test7]",
+      "title" : "Test converter [param_test7]",
+      "time" : {
+        "start" : 1484254189274,
+        "stop" : 1484254191071,
+        "duration" : 1797
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "9b339c381b9b0c83",
+      "name" : "test_converter[param_test8]",
+      "title" : "Test converter [param_test8]",
+      "time" : {
+        "start" : 1484254191071,
+        "stop" : 1484254193036,
+        "duration" : 1965
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "75622ee98e7791af",
+      "name" : "test_converter[param_test9]",
+      "title" : "Test converter [param_test9]",
+      "time" : {
+        "start" : 1484254193052,
+        "stop" : 1484254194396,
+        "duration" : 1344
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e681c5441be25f37",
+      "name" : "test_converter[param_test10]",
+      "title" : "Test converter [param_test10]",
+      "time" : {
+        "start" : 1484254194411,
+        "stop" : 1484254196289,
+        "duration" : 1878
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "686ed3a2a93b7f13",
+      "name" : "test_converter[param_test11]",
+      "title" : "Test converter [param_test11]",
+      "time" : {
+        "start" : 1484254196289,
+        "stop" : 1484254197983,
+        "duration" : 1694
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "527e1c32d7d7ba84",
+      "name" : "test_converter[param_test12]",
+      "title" : "Test converter [param_test12]",
+      "time" : {
+        "start" : 1484254197983,
+        "stop" : 1484254199295,
+        "duration" : 1312
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "7db1121faf135ac8",
+    "name" : "test_suite.test_end_to_end",
+    "title" : "Test end to end",
+    "time" : {
+      "start" : 1484254199530,
+      "stop" : 1484254215838,
+      "duration" : 16308
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "eec2ec4265aca040",
+      "name" : "test_end_to_end",
+      "title" : "Test end to end",
+      "time" : {
+        "start" : 1484254199530,
+        "stop" : 1484254215838,
+        "duration" : 16308
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}
