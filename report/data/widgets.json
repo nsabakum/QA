@@ -11,9 +11,9 @@
         "broken" : 0
       },
       "time" : {
-        "start" : 1484254165097,
-        "stop" : 1484254247292,
-        "duration" : 82195
+        "start" : 1484256104600,
+        "stop" : 1484256198457,
+        "duration" : 93857
       }
     },
     "defects" : {
@@ -23,7 +23,7 @@
     "xunit" : {
       "totalCount" : 4,
       "items" : [ {
-        "uid" : "cc738abc920faf34",
+        "uid" : "93ead5d5aaf71e2a",
         "title" : "Test converter",
         "statistic" : {
           "total" : 13,
@@ -34,7 +34,7 @@
           "broken" : 0
         }
       }, {
-        "uid" : "7db1121faf135ac8",
+        "uid" : "73e7b073b318c000",
         "title" : "Test end to end",
         "statistic" : {
           "total" : 1,
@@ -45,7 +45,7 @@
           "broken" : 0
         }
       }, {
-        "uid" : "d48d2487d3acb452",
+        "uid" : "20c35108239dd5c4",
         "title" : "Test from currency",
         "statistic" : {
           "total" : 6,
@@ -56,7 +56,7 @@
           "broken" : 0
         }
       }, {
-        "uid" : "b002a9b5b74bf957",
+        "uid" : "b355ed4b535c9fcb",
         "title" : "Test to currency",
         "statistic" : {
           "total" : 6,

@@ -1,11 +1,11 @@
 {
-  "uid" : "eec2ec4265aca040",
+  "uid" : "3d094d240e41358b",
   "name" : "test_end_to_end",
   "title" : "Test end to end",
   "time" : {
-    "start" : 1484254199530,
-    "stop" : 1484254215838,
-    "duration" : 16308
+    "start" : 1484256146290,
+    "stop" : 1484256162691,
+    "duration" : 16401
   },
   "summary" : {
     "attachments" : 0,
@@ -16,7 +16,7 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "7db1121faf135ac8",
+    "uid" : "73e7b073b318c000",
     "name" : "test_suite.test_end_to_end",
     "title" : "Test end to end"
   },
@@ -24,9 +24,9 @@
     "name" : "Загрузка страницы",
     "title" : "Загрузка страницы",
     "time" : {
-      "start" : 1484254209667,
-      "stop" : 1484254209684,
-      "duration" : 17
+      "start" : 1484256156249,
+      "stop" : 1484256156262,
+      "duration" : 13
     },
     "summary" : {
       "attachments" : 0,
@@ -39,9 +39,9 @@
     "name" : "Ввод суммы",
     "title" : "Ввод суммы",
     "time" : {
-      "start" : 1484254209685,
-      "stop" : 1484254213153,
-      "duration" : 3468
+      "start" : 1484256156262,
+      "stop" : 1484256159985,
+      "duration" : 3723
     },
     "summary" : {
       "attachments" : 0,
@@ -54,9 +54,9 @@
     "name" : "Выбор опций",
     "title" : "Выбор опций",
     "time" : {
-      "start" : 1484254213153,
-      "stop" : 1484254214573,
-      "duration" : 1420
+      "start" : 1484256159985,
+      "stop" : 1484256161444,
+      "duration" : 1459
     },
     "summary" : {
       "attachments" : 0,
@@ -69,9 +69,9 @@
     "name" : "Вывод результата с помощью кнопки \"Показать\"",
     "title" : "Вывод результата с помощью кнопки \"Показать\"",
     "time" : {
-      "start" : 1484254214573,
-      "stop" : 1484254215838,
-      "duration" : 1265
+      "start" : 1484256161444,
+      "stop" : 1484256162691,
+      "duration" : 1247
     },
     "summary" : {
       "attachments" : 0,
@@ -83,8 +83,8 @@
       "name" : "Проверка результата",
       "title" : "Проверка результата",
       "time" : {
-        "start" : 1484254215838,
-        "stop" : 1484254215838,
+        "start" : 1484256162691,
+        "stop" : 1484256162691,
         "duration" : 0
       },
       "summary" : {
@@ -109,6 +109,9 @@
     "name" : "feature",
     "value" : "End-to-end сценарий"
   }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
+  }, {
     "name" : "host",
     "value" : "DESKTOP-NA3S6T6"
   }, {
@@ -117,9 +120,6 @@
   }, {
     "name" : "severity",
     "value" : "normal"
-  }, {
-    "name" : "thread",
-    "value" : "7728-MainThread"
   } ],
   "parameters" : [ ]
 }

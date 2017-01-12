@@ -1,11 +1,11 @@
 {
-  "uid" : "75622ee98e7791af",
+  "uid" : "1510b0d2cd5c8ad3",
   "name" : "test_converter[param_test9]",
   "title" : "Test converter [param_test9]",
   "time" : {
-    "start" : 1484254193052,
-    "stop" : 1484254194396,
-    "duration" : 1344
+    "start" : 1484256139583,
+    "stop" : 1484256141110,
+    "duration" : 1527
   },
   "summary" : {
     "attachments" : 0,
@@ -16,7 +16,7 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "cc738abc920faf34",
+    "uid" : "93ead5d5aaf71e2a",
     "name" : "test_suite.test_converter",
     "title" : "Test converter"
   },
@@ -24,9 +24,9 @@
     "name" : "Ввод новых данных в поле \"Сумма\"",
     "title" : "Ввод новых данных в поле \"Сумма\"",
     "time" : {
-      "start" : 1484254193052,
-      "stop" : 1484254194396,
-      "duration" : 1344
+      "start" : 1484256139585,
+      "stop" : 1484256141110,
+      "duration" : 1525
     },
     "summary" : {
       "attachments" : 0,
@@ -38,9 +38,9 @@
       "name" : "Вывод результата",
       "title" : "Вывод результата",
       "time" : {
-        "start" : 1484254193286,
-        "stop" : 1484254194396,
-        "duration" : 1110
+        "start" : 1484256139957,
+        "stop" : 1484256141110,
+        "duration" : 1153
       },
       "summary" : {
         "attachments" : 0,
@@ -54,8 +54,8 @@
     "name" : "Проверка результата",
     "title" : "Проверка результата",
     "time" : {
-      "start" : 1484254194396,
-      "stop" : 1484254194396,
+      "start" : 1484256141110,
+      "stop" : 1484256141110,
       "duration" : 0
     },
     "summary" : {
@@ -73,6 +73,9 @@
     "name" : "feature",
     "value" : "Калькулятор иностранных валют. CRUD-тест: поле ввода суммы"
   }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
+  }, {
     "name" : "host",
     "value" : "DESKTOP-NA3S6T6"
   }, {
@@ -84,9 +87,6 @@
   }, {
     "name" : "suite-name",
     "value" : "test_suite.test_converter"
-  }, {
-    "name" : "thread",
-    "value" : "7728-MainThread"
   }, {
     "name" : "story",
     "value" : "Ввод различных параметров и проверка результата"

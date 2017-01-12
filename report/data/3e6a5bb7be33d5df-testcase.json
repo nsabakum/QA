@@ -1,11 +1,11 @@
 {
-  "uid" : "3c9ca6068dcc4c5",
-  "name" : "test_from_currency[param_test4]",
-  "title" : "Test from currency [param_test4]",
+  "uid" : "3e6a5bb7be33d5df",
+  "name" : "test_from_currency[param_test2]",
+  "title" : "Test from currency [param_test2]",
   "time" : {
-    "start" : 1484254230330,
-    "stop" : 1484254230716,
-    "duration" : 386
+    "start" : 1484256178181,
+    "stop" : 1484256178615,
+    "duration" : 434
   },
   "summary" : {
     "attachments" : 0,
@@ -16,7 +16,7 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "d48d2487d3acb452",
+    "uid" : "20c35108239dd5c4",
     "name" : "test_suite.test_from_currency",
     "title" : "Test from currency"
   },
@@ -24,9 +24,9 @@
     "name" : "Выбор валюты из списка",
     "title" : "Выбор валюты из списка",
     "time" : {
-      "start" : 1484254230482,
-      "stop" : 1484254230716,
-      "duration" : 234
+      "start" : 1484256178369,
+      "stop" : 1484256178615,
+      "duration" : 246
     },
     "summary" : {
       "attachments" : 0,
@@ -39,8 +39,8 @@
     "name" : "Проверка результата",
     "title" : "Проверка результата",
     "time" : {
-      "start" : 1484254230716,
-      "stop" : 1484254230716,
+      "start" : 1484256178615,
+      "stop" : 1484256178615,
       "duration" : 0
     },
     "summary" : {
@@ -61,6 +61,9 @@
     "name" : "feature",
     "value" : "CRUD-тест: выбор валюты"
   }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
+  }, {
     "name" : "host",
     "value" : "DESKTOP-NA3S6T6"
   }, {
@@ -69,9 +72,6 @@
   }, {
     "name" : "severity",
     "value" : "normal"
-  }, {
-    "name" : "thread",
-    "value" : "7728-MainThread"
   }, {
     "name" : "story",
     "value" : "Выбор валюты, из которой конвертируем, проверка списка"

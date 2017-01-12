@@ -1,11 +1,11 @@
 {
-  "uid" : "30e6a597378ea10f",
-  "name" : "test_converter[param_test1]",
-  "title" : "Test converter [param_test1]",
+  "uid" : "447065aa1383c480",
+  "name" : "test_converter[param_test5]",
+  "title" : "Test converter [param_test5]",
   "time" : {
-    "start" : 1484254179717,
-    "stop" : 1484254181294,
-    "duration" : 1577
+    "start" : 1484256133568,
+    "stop" : 1484256135095,
+    "duration" : 1527
   },
   "summary" : {
     "attachments" : 0,
@@ -16,7 +16,7 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "cc738abc920faf34",
+    "uid" : "93ead5d5aaf71e2a",
     "name" : "test_suite.test_converter",
     "title" : "Test converter"
   },
@@ -24,9 +24,9 @@
     "name" : "Ввод новых данных в поле \"Сумма\"",
     "title" : "Ввод новых данных в поле \"Сумма\"",
     "time" : {
-      "start" : 1484254179718,
-      "stop" : 1484254181293,
-      "duration" : 1575
+      "start" : 1484256133568,
+      "stop" : 1484256135094,
+      "duration" : 1526
     },
     "summary" : {
       "attachments" : 0,
@@ -38,9 +38,9 @@
       "name" : "Вывод результата",
       "title" : "Вывод результата",
       "time" : {
-        "start" : 1484254180170,
-        "stop" : 1484254181293,
-        "duration" : 1123
+        "start" : 1484256133959,
+        "stop" : 1484256135094,
+        "duration" : 1135
       },
       "summary" : {
         "attachments" : 0,
@@ -54,8 +54,8 @@
     "name" : "Проверка результата",
     "title" : "Проверка результата",
     "time" : {
-      "start" : 1484254181293,
-      "stop" : 1484254181293,
+      "start" : 1484256135094,
+      "stop" : 1484256135094,
       "duration" : 0
     },
     "summary" : {
@@ -73,6 +73,9 @@
     "name" : "feature",
     "value" : "Калькулятор иностранных валют. CRUD-тест: поле ввода суммы"
   }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
+  }, {
     "name" : "host",
     "value" : "DESKTOP-NA3S6T6"
   }, {
@@ -84,9 +87,6 @@
   }, {
     "name" : "suite-name",
     "value" : "test_suite.test_converter"
-  }, {
-    "name" : "thread",
-    "value" : "7728-MainThread"
   }, {
     "name" : "story",
     "value" : "Ввод различных параметров и проверка результата"

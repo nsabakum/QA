@@ -1,11 +1,11 @@
 {
-  "uid" : "2747d65c870b1126",
-  "name" : "test_to_currency[param_test2]",
-  "title" : "Test to currency [param_test2]",
+  "uid" : "d28a1938937f197",
+  "name" : "test_from_currency[param_test3]",
+  "title" : "Test from currency [param_test3]",
   "time" : {
-    "start" : 1484254246223,
-    "stop" : 1484254246508,
-    "duration" : 285
+    "start" : 1484256178617,
+    "stop" : 1484256178982,
+    "duration" : 365
   },
   "summary" : {
     "attachments" : 0,
@@ -16,17 +16,17 @@
   "severity" : "NORMAL",
   "status" : "PASSED",
   "suite" : {
-    "uid" : "b002a9b5b74bf957",
-    "name" : "test_suite.test_to_currency",
-    "title" : "Test to currency"
+    "uid" : "20c35108239dd5c4",
+    "name" : "test_suite.test_from_currency",
+    "title" : "Test from currency"
   },
   "steps" : [ {
     "name" : "Выбор валюты из списка",
     "title" : "Выбор валюты из списка",
     "time" : {
-      "start" : 1484254246316,
-      "stop" : 1484254246507,
-      "duration" : 191
+      "start" : 1484256178771,
+      "stop" : 1484256178981,
+      "duration" : 210
     },
     "summary" : {
       "attachments" : 0,
@@ -39,9 +39,9 @@
     "name" : "Проверка результата",
     "title" : "Проверка результата",
     "time" : {
-      "start" : 1484254246507,
-      "stop" : 1484254246508,
-      "duration" : 1
+      "start" : 1484256178981,
+      "stop" : 1484256178981,
+      "duration" : 0
     },
     "summary" : {
       "attachments" : 0,
@@ -55,11 +55,14 @@
   "issues" : [ ],
   "testIds" : [ ],
   "labels" : [ {
-    "name" : "story",
-    "value" : "Выбор валюты, в которую конвертируем, проверка списка"
+    "name" : "suite-name",
+    "value" : "test_suite.test_from_currency"
   }, {
     "name" : "feature",
     "value" : "CRUD-тест: выбор валюты"
+  }, {
+    "name" : "thread",
+    "value" : "7312-MainThread"
   }, {
     "name" : "host",
     "value" : "DESKTOP-NA3S6T6"
@@ -70,11 +73,8 @@
     "name" : "severity",
     "value" : "normal"
   }, {
-    "name" : "suite-name",
-    "value" : "test_suite.test_to_currency"
-  }, {
-    "name" : "thread",
-    "value" : "7728-MainThread"
+    "name" : "story",
+    "value" : "Выбор валюты, из которой конвертируем, проверка списка"
   } ],
   "parameters" : [ ]
 }
