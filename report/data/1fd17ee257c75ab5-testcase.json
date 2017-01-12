@@ -1,0 +1,95 @@
+{
+  "uid" : "1fd17ee257c75ab5",
+  "name" : "test_converter[param_test9]",
+  "title" : "Test converter [param_test9]",
+  "time" : {
+    "start" : 1484256798154,
+    "stop" : 1484256799473,
+    "duration" : 1319
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "7a529b6fab42e9eb",
+    "name" : "test_suite.test_converter",
+    "title" : "Test converter"
+  },
+  "steps" : [ {
+    "name" : "Ввод новых данных в поле \"Сумма\"",
+    "title" : "Ввод новых данных в поле \"Сумма\"",
+    "time" : {
+      "start" : 1484256798170,
+      "stop" : 1484256799473,
+      "duration" : 1303
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 1
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "Вывод результата",
+      "title" : "Вывод результата",
+      "time" : {
+        "start" : 1484256798373,
+        "stop" : 1484256799473,
+        "duration" : 1100
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484256799473,
+      "stop" : 1484256799473,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4652-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_suite.test_converter"
+  }, {
+    "name" : "story",
+    "value" : "Ввод различных параметров и проверка результата"
+  }, {
+    "name" : "feature",
+    "value" : "CRUD-тест: поле ввода суммы"
+  } ],
+  "parameters" : [ ]
+}

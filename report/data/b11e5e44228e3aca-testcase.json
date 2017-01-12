@@ -1,0 +1,95 @@
+{
+  "uid" : "b11e5e44228e3aca",
+  "name" : "test_from_currency[param_test0]",
+  "title" : "Test from currency [param_test0]",
+  "time" : {
+    "start" : 1484256822679,
+    "stop" : 1484256835943,
+    "duration" : 13264
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "e25f25ccb5380c5c",
+    "name" : "test_suite.test_from_currency",
+    "title" : "Test from currency"
+  },
+  "steps" : [ {
+    "name" : "Загрузка страницы",
+    "title" : "Загрузка страницы",
+    "time" : {
+      "start" : 1484256832723,
+      "stop" : 1484256832749,
+      "duration" : 26
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Выбор валюты из списка",
+    "title" : "Выбор валюты из списка",
+    "time" : {
+      "start" : 1484256835706,
+      "stop" : 1484256835943,
+      "duration" : 237
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484256835943,
+      "stop" : 1484256835943,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "test_suite.test_from_currency"
+  }, {
+    "name" : "thread",
+    "value" : "4652-MainThread"
+  }, {
+    "name" : "feature",
+    "value" : "CRUD-тест: выбор валюты"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "Выбор валюты, из которой конвертируем, проверка списка"
+  } ],
+  "parameters" : [ ]
+}

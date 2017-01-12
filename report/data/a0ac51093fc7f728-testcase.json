@@ -1,0 +1,125 @@
+{
+  "uid" : "a0ac51093fc7f728",
+  "name" : "test_end_to_end",
+  "title" : "Test end to end",
+  "time" : {
+    "start" : 1484256804945,
+    "stop" : 1484256822456,
+    "duration" : 17511
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 5
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "cf0cedc6ca539807",
+    "name" : "test_suite.test_end_to_end",
+    "title" : "Test end to end"
+  },
+  "steps" : [ {
+    "name" : "Загрузка страницы",
+    "title" : "Загрузка страницы",
+    "time" : {
+      "start" : 1484256815789,
+      "stop" : 1484256815808,
+      "duration" : 19
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Ввод суммы",
+    "title" : "Ввод суммы",
+    "time" : {
+      "start" : 1484256815809,
+      "stop" : 1484256819793,
+      "duration" : 3984
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Выбор опций",
+    "title" : "Выбор опций",
+    "time" : {
+      "start" : 1484256819793,
+      "stop" : 1484256821192,
+      "duration" : 1399
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Вывод результата с помощью кнопки \"Показать\"",
+    "title" : "Вывод результата с помощью кнопки \"Показать\"",
+    "time" : {
+      "start" : 1484256821192,
+      "stop" : 1484256822456,
+      "duration" : 1264
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 1
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "Проверка результата",
+      "title" : "Проверка результата",
+      "time" : {
+        "start" : 1484256822456,
+        "stop" : 1484256822456,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "test_suite.test_end_to_end"
+  }, {
+    "name" : "story",
+    "value" : "Ввод суммы, выбор некоторых опций, конвертация валюты"
+  }, {
+    "name" : "thread",
+    "value" : "4652-MainThread"
+  }, {
+    "name" : "feature",
+    "value" : "End-to-end сценарий"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  } ],
+  "parameters" : [ ]
+}
