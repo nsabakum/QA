@@ -1,5 +1,6 @@
+import pytest
 from data.testing_data import get_converter_data
-from utils.steps_lib import *
+from utils.steps_lib import StartEnd, Converter
 
 params_list = get_converter_data()
 
@@ -7,11 +8,11 @@ params_list = get_converter_data()
 def param_test(request):
     return request.param
 
-@pytest.allure.feature('CRUD-тест: поле ввода суммы')
+@pytest.allure.feature('Калькулятор иностранных валют. CRUD-тест: поле ввода суммы')
 @pytest.allure.story('Ввод различных параметров и проверка результата')
-def test_converter(param_test):
-    input, expected_output = param_test
-    result = converter_func(input)
-    with pytest.allure.step('Проверка результата'):
-        assert result == expected_output, 'Результат не совпадает с ожидаемым'
-        print("input: {0}, output: {1}, expected: {2}".format(input, result, expected_output))
+class TestConverter(StartEnd):
+    def test_converter(self, param_test):
+        input, expected_output = param_test
+        result = Converter(self.driver).converter_func(input, expected_output)
+        with pytest.allure.step('Проверка результата'):
+            assert result == expected_output, 'Результат не совпадает с ожидаемым'

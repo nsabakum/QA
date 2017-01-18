@@ -3,7 +3,7 @@ import os
 
 file_dir = os.path.dirname(os.path.realpath(__file__)) + os.sep
 
-#Получить варианты входных данных и ожид. результатов из файла CSV
+#РџРѕР»СѓС‡РёС‚СЊ РІР°СЂРёР°РЅС‚С‹ РІС…РѕРґРЅС‹С… РґР°РЅРЅС‹С… Рё РѕР¶РёРґ. СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ РёР· С„Р°Р№Р»Р° CSV
 def read_csv_data(file):
     params_list = []
     with open(file, newline='') as f:
@@ -11,7 +11,6 @@ def read_csv_data(file):
         for row in reader:
             params_list.append(row)
     return params_list
-
 
 def get_converter_data():
     return read_csv_data(file_dir + 'converter.csv')

@@ -1,0 +1,110 @@
+{
+  "uid" : "a974aa8b44ed7cc",
+  "name" : "TestConverter.test_converter[param_test0]",
+  "title" : "Test converter [param_test0]",
+  "time" : {
+    "start" : 1484731952267,
+    "stop" : 1484731967738,
+    "duration" : 15471
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f29e4e285876d934",
+    "name" : "test_suite.test_converter",
+    "title" : "Test converter"
+  },
+  "steps" : [ {
+    "name" : "Загрузка страницы",
+    "title" : "Загрузка страницы",
+    "time" : {
+      "start" : 1484731963123,
+      "stop" : 1484731963131,
+      "duration" : 8
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Ввод новых данных в поле \"Сумма\"",
+    "title" : "Ввод новых данных в поле \"Сумма\"",
+    "time" : {
+      "start" : 1484731963131,
+      "stop" : 1484731967737,
+      "duration" : 4606
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 1
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "Вывод результата",
+      "title" : "Вывод результата",
+      "time" : {
+        "start" : 1484731966514,
+        "stop" : 1484731967737,
+        "duration" : 1223
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484731967737,
+      "stop" : 1484731967737,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Калькулятор иностранных валют. CRUD-тест: поле ввода суммы"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_suite.test_converter"
+  }, {
+    "name" : "thread",
+    "value" : "8240-MainThread"
+  }, {
+    "name" : "story",
+    "value" : "Ввод различных параметров и проверка результата"
+  } ],
+  "parameters" : [ ]
+}

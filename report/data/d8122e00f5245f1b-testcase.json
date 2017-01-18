@@ -1,0 +1,80 @@
+{
+  "uid" : "d8122e00f5245f1b",
+  "name" : "TestCurrency.test_to_currency[param_test4]",
+  "title" : "Test to currency [param_test4]",
+  "time" : {
+    "start" : 1484732028315,
+    "stop" : 1484732028529,
+    "duration" : 214
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "b17a8081784bba67",
+    "name" : "test_suite.test_to_currency",
+    "title" : "Test to currency"
+  },
+  "steps" : [ {
+    "name" : "Выбор валюты из списка",
+    "title" : "Выбор валюты из списка",
+    "time" : {
+      "start" : 1484732028382,
+      "stop" : 1484732028529,
+      "duration" : 147
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484732028529,
+      "stop" : 1484732028529,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Выбор валюты, в которую конвертируем, проверка списка"
+  }, {
+    "name" : "feature",
+    "value" : "CRUD-тест: выбор валюты"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_suite.test_to_currency"
+  }, {
+    "name" : "thread",
+    "value" : "8240-MainThread"
+  } ],
+  "parameters" : [ ]
+}

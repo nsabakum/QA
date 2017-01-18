@@ -10,7 +10,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "fe914e5c2c62f66d",
+      "uid" : "b0cb4a3db58a47bc",
       "title" : "Выбор валюты, из которой конвертируем, проверка списка",
       "statistic" : {
         "total" : 6,
@@ -21,74 +21,74 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "b11e5e44228e3aca",
-        "name" : "test_from_currency[param_test0]",
+        "uid" : "f7009762c3f93c9c",
+        "name" : "TestFromCurrency.test_from_currency[param_test0]",
         "title" : "Test from currency [param_test0]",
         "time" : {
-          "start" : 1484256822679,
-          "stop" : 1484256835943,
-          "duration" : 13264
+          "start" : 1484731997503,
+          "stop" : 1484732011324,
+          "duration" : 13821
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "c49b7ac7306483e5",
-        "name" : "test_from_currency[param_test1]",
+        "uid" : "dc17a2261c02b259",
+        "name" : "TestFromCurrency.test_from_currency[param_test1]",
         "title" : "Test from currency [param_test1]",
         "time" : {
-          "start" : 1484256835946,
-          "stop" : 1484256836405,
-          "duration" : 459
+          "start" : 1484732011325,
+          "stop" : 1484732011915,
+          "duration" : 590
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "545790e94c136747",
-        "name" : "test_from_currency[param_test2]",
+        "uid" : "2dd08202f0fb10f5",
+        "name" : "TestFromCurrency.test_from_currency[param_test2]",
         "title" : "Test from currency [param_test2]",
         "time" : {
-          "start" : 1484256836407,
-          "stop" : 1484256836840,
-          "duration" : 433
+          "start" : 1484732011916,
+          "stop" : 1484732012267,
+          "duration" : 351
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "6ae95a8ba3b5811d",
-        "name" : "test_from_currency[param_test3]",
+        "uid" : "29c4c8348cd464a0",
+        "name" : "TestFromCurrency.test_from_currency[param_test3]",
         "title" : "Test from currency [param_test3]",
         "time" : {
-          "start" : 1484256836842,
-          "stop" : 1484256837228,
-          "duration" : 386
+          "start" : 1484732012269,
+          "stop" : 1484732012623,
+          "duration" : 354
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "6822e1ed932adea4",
-        "name" : "test_from_currency[param_test4]",
+        "uid" : "34740b05a919e661",
+        "name" : "TestFromCurrency.test_from_currency[param_test4]",
         "title" : "Test from currency [param_test4]",
         "time" : {
-          "start" : 1484256837230,
-          "stop" : 1484256837600,
-          "duration" : 370
+          "start" : 1484732012624,
+          "stop" : 1484732012986,
+          "duration" : 362
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "ff3976e5a2f08ee1",
-        "name" : "test_from_currency[param_test5]",
+        "uid" : "5166bdb824f11f03",
+        "name" : "TestFromCurrency.test_from_currency[param_test5]",
         "title" : "Test from currency [param_test5]",
         "time" : {
-          "start" : 1484256837602,
-          "stop" : 1484256838072,
-          "duration" : 470
+          "start" : 1484732012987,
+          "stop" : 1484732013456,
+          "duration" : 469
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       } ]
     }, {
-      "uid" : "5785c814fe325bc8",
+      "uid" : "4b8fb67442c4d282",
       "title" : "Выбор валюты, в которую конвертируем, проверка списка",
       "statistic" : {
         "total" : 6,
@@ -99,75 +99,75 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "83d5c0835b32a55",
-        "name" : "test_to_currency[param_test0]",
+        "uid" : "6dad7c94673a2026",
+        "name" : "TestCurrency.test_to_currency[param_test0]",
         "title" : "Test to currency [param_test0]",
         "time" : {
-          "start" : 1484256838303,
-          "stop" : 1484256851452,
-          "duration" : 13149
+          "start" : 1484732013642,
+          "stop" : 1484732027522,
+          "duration" : 13880
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "9b1b59cc73743882",
-        "name" : "test_to_currency[param_test1]",
+        "uid" : "99c7e6197f9c2d46",
+        "name" : "TestCurrency.test_to_currency[param_test1]",
         "title" : "Test to currency [param_test1]",
         "time" : {
-          "start" : 1484256851454,
-          "stop" : 1484256851741,
-          "duration" : 287
+          "start" : 1484732027523,
+          "stop" : 1484732027844,
+          "duration" : 321
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "ab85e7f7f2db744e",
-        "name" : "test_to_currency[param_test2]",
+        "uid" : "859509ab625c4f38",
+        "name" : "TestCurrency.test_to_currency[param_test2]",
         "title" : "Test to currency [param_test2]",
         "time" : {
-          "start" : 1484256851743,
-          "stop" : 1484256851985,
+          "start" : 1484732027845,
+          "stop" : 1484732028071,
+          "duration" : 226
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5a67a1abc0c68b11",
+        "name" : "TestCurrency.test_to_currency[param_test3]",
+        "title" : "Test to currency [param_test3]",
+        "time" : {
+          "start" : 1484732028072,
+          "stop" : 1484732028314,
           "duration" : 242
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "f9a908b4a8512c63",
-        "name" : "test_to_currency[param_test3]",
-        "title" : "Test to currency [param_test3]",
-        "time" : {
-          "start" : 1484256851987,
-          "stop" : 1484256852226,
-          "duration" : 239
-        },
-        "severity" : "NORMAL",
-        "status" : "PASSED"
-      }, {
-        "uid" : "99401c40551eb532",
-        "name" : "test_to_currency[param_test4]",
+        "uid" : "d8122e00f5245f1b",
+        "name" : "TestCurrency.test_to_currency[param_test4]",
         "title" : "Test to currency [param_test4]",
         "time" : {
-          "start" : 1484256852228,
-          "stop" : 1484256852483,
-          "duration" : 255
+          "start" : 1484732028315,
+          "stop" : 1484732028529,
+          "duration" : 214
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "161a2c8d5c177d3",
-        "name" : "test_to_currency[param_test5]",
+        "uid" : "5285e0122ded7b01",
+        "name" : "TestCurrency.test_to_currency[param_test5]",
         "title" : "Test to currency [param_test5]",
         "time" : {
-          "start" : 1484256852485,
-          "stop" : 1484256852788,
-          "duration" : 303
+          "start" : 1484732028531,
+          "stop" : 1484732028809,
+          "duration" : 278
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       } ]
     } ]
   }, {
-    "title" : "CRUD-тест: поле ввода суммы",
+    "title" : "Калькулятор иностранных валют. CRUD-тест: поле ввода суммы",
     "statistic" : {
       "total" : 13,
       "passed" : 13,
@@ -177,7 +177,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "757e3a2283f9249c",
+      "uid" : "6c26811666997e7d",
       "title" : "Ввод различных параметров и проверка результата",
       "statistic" : {
         "total" : 13,
@@ -188,145 +188,145 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "aaf2d4bd4f61e579",
-        "name" : "test_converter[param_test0]",
+        "uid" : "a974aa8b44ed7cc",
+        "name" : "TestConverter.test_converter[param_test0]",
         "title" : "Test converter [param_test0]",
         "time" : {
-          "start" : 1484256765660,
-          "stop" : 1484256785195,
-          "duration" : 19535
+          "start" : 1484731952267,
+          "stop" : 1484731967738,
+          "duration" : 15471
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "5378d4e0ebb1686d",
-        "name" : "test_converter[param_test1]",
+        "uid" : "736ff9ad773eaba6",
+        "name" : "TestConverter.test_converter[param_test1]",
         "title" : "Test converter [param_test1]",
         "time" : {
-          "start" : 1484256785198,
-          "stop" : 1484256786796,
-          "duration" : 1598
+          "start" : 1484731967739,
+          "stop" : 1484731968872,
+          "duration" : 1133
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "36ab5f3b3a3ab21c",
-        "name" : "test_converter[param_test2]",
+        "uid" : "7acdff00d889d9c8",
+        "name" : "TestConverter.test_converter[param_test2]",
         "title" : "Test converter [param_test2]",
         "time" : {
-          "start" : 1484256786797,
-          "stop" : 1484256788743,
-          "duration" : 1946
+          "start" : 1484731968873,
+          "stop" : 1484731970325,
+          "duration" : 1452
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "2bb8fae251b645e7",
-        "name" : "test_converter[param_test3]",
+        "uid" : "47728512e0b4655a",
+        "name" : "TestConverter.test_converter[param_test3]",
         "title" : "Test converter [param_test3]",
         "time" : {
-          "start" : 1484256788744,
-          "stop" : 1484256790316,
-          "duration" : 1572
+          "start" : 1484731970328,
+          "stop" : 1484731971524,
+          "duration" : 1196
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "6fc2a99575657f64",
-        "name" : "test_converter[param_test4]",
+        "uid" : "97622d46614f55ac",
+        "name" : "TestConverter.test_converter[param_test4]",
         "title" : "Test converter [param_test4]",
         "time" : {
-          "start" : 1484256790316,
-          "stop" : 1484256791629,
-          "duration" : 1313
+          "start" : 1484731971525,
+          "stop" : 1484731971818,
+          "duration" : 293
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "7e28f0dc1a6a6f9d",
-        "name" : "test_converter[param_test5]",
+        "uid" : "8cca321ba88c604c",
+        "name" : "TestConverter.test_converter[param_test5]",
         "title" : "Test converter [param_test5]",
         "time" : {
-          "start" : 1484256791629,
-          "stop" : 1484256793335,
-          "duration" : 1706
+          "start" : 1484731971819,
+          "stop" : 1484731972156,
+          "duration" : 337
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "323868e9009c84a3",
-        "name" : "test_converter[param_test6]",
+        "uid" : "40ddc9f5fb5ecfc3",
+        "name" : "TestConverter.test_converter[param_test6]",
         "title" : "Test converter [param_test6]",
         "time" : {
-          "start" : 1484256793335,
-          "stop" : 1484256794956,
-          "duration" : 1621
+          "start" : 1484731972157,
+          "stop" : 1484731972480,
+          "duration" : 323
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "edc33c152d30ac8e",
-        "name" : "test_converter[param_test7]",
+        "uid" : "637ac605150f5655",
+        "name" : "TestConverter.test_converter[param_test7]",
         "title" : "Test converter [param_test7]",
         "time" : {
-          "start" : 1484256794956,
-          "stop" : 1484256796425,
-          "duration" : 1469
+          "start" : 1484731972481,
+          "stop" : 1484731973437,
+          "duration" : 956
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "4d738681870cb0bd",
-        "name" : "test_converter[param_test8]",
+        "uid" : "ffba0bec3989f4b0",
+        "name" : "TestConverter.test_converter[param_test8]",
         "title" : "Test converter [param_test8]",
         "time" : {
-          "start" : 1484256796425,
-          "stop" : 1484256798154,
-          "duration" : 1729
+          "start" : 1484731973438,
+          "stop" : 1484731974920,
+          "duration" : 1482
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "1fd17ee257c75ab5",
-        "name" : "test_converter[param_test9]",
+        "uid" : "f6db3f455d897238",
+        "name" : "TestConverter.test_converter[param_test9]",
         "title" : "Test converter [param_test9]",
         "time" : {
-          "start" : 1484256798154,
-          "stop" : 1484256799473,
-          "duration" : 1319
+          "start" : 1484731974921,
+          "stop" : 1484731975269,
+          "duration" : 348
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "b063435837b39f76",
-        "name" : "test_converter[param_test10]",
+        "uid" : "a92c22b449fe4a1a",
+        "name" : "TestConverter.test_converter[param_test10]",
         "title" : "Test converter [param_test10]",
         "time" : {
-          "start" : 1484256799489,
-          "stop" : 1484256801584,
-          "duration" : 2095
+          "start" : 1484731975270,
+          "stop" : 1484731976203,
+          "duration" : 933
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "75514db48ad9b160",
-        "name" : "test_converter[param_test11]",
+        "uid" : "5aa2fece56482e53",
+        "name" : "TestConverter.test_converter[param_test11]",
         "title" : "Test converter [param_test11]",
         "time" : {
-          "start" : 1484256801584,
-          "stop" : 1484256803445,
-          "duration" : 1861
+          "start" : 1484731976204,
+          "stop" : 1484731977400,
+          "duration" : 1196
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "dbdcff7fdff6381",
-        "name" : "test_converter[param_test12]",
+        "uid" : "6a037d3ca7f1b745",
+        "name" : "TestConverter.test_converter[param_test12]",
         "title" : "Test converter [param_test12]",
         "time" : {
-          "start" : 1484256803445,
-          "stop" : 1484256804738,
-          "duration" : 1293
+          "start" : 1484731977401,
+          "stop" : 1484731977972,
+          "duration" : 571
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
@@ -343,7 +343,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "bcf1a8d482741de6",
+      "uid" : "bbe7b43b675c6b6b",
       "title" : "Ввод суммы, выбор некоторых опций, конвертация валюты",
       "statistic" : {
         "total" : 1,
@@ -354,13 +354,13 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "a0ac51093fc7f728",
-        "name" : "test_end_to_end",
+        "uid" : "37ca95a2a97a41b7",
+        "name" : "TestEndToEnd.test_end_to_end",
         "title" : "Test end to end",
         "time" : {
-          "start" : 1484256804945,
-          "stop" : 1484256822456,
-          "duration" : 17511
+          "start" : 1484731978150,
+          "stop" : 1484731997304,
+          "duration" : 19154
         },
         "severity" : "NORMAL",
         "status" : "PASSED"

@@ -1,0 +1,95 @@
+{
+  "uid" : "f7009762c3f93c9c",
+  "name" : "TestFromCurrency.test_from_currency[param_test0]",
+  "title" : "Test from currency [param_test0]",
+  "time" : {
+    "start" : 1484731997503,
+    "stop" : 1484732011324,
+    "duration" : 13821
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "4ec221f5638b1d9e",
+    "name" : "test_suite.test_from_currency",
+    "title" : "Test from currency"
+  },
+  "steps" : [ {
+    "name" : "Загрузка страницы",
+    "title" : "Загрузка страницы",
+    "time" : {
+      "start" : 1484732008128,
+      "stop" : 1484732008151,
+      "duration" : 23
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Выбор валюты из списка",
+    "title" : "Выбор валюты из списка",
+    "time" : {
+      "start" : 1484732011050,
+      "stop" : 1484732011323,
+      "duration" : 273
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Проверка результата",
+    "title" : "Проверка результата",
+    "time" : {
+      "start" : 1484732011323,
+      "stop" : 1484732011323,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "test_suite.test_from_currency"
+  }, {
+    "name" : "feature",
+    "value" : "CRUD-тест: выбор валюты"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NA3S6T6"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8240-MainThread"
+  }, {
+    "name" : "story",
+    "value" : "Выбор валюты, из которой конвертируем, проверка списка"
+  } ],
+  "parameters" : [ ]
+}
